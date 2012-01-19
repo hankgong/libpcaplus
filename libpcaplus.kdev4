@@ -1,0 +1,4 @@
+[Project]
+Name=libpcaplus
+Manager=KDevCMakeManager
+VersionControl=kdevgit
