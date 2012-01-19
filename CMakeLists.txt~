@@ -1,6 +1,6 @@
 project(libpcaplus)
 
-add_executable(libpcaplus main.cpp)
+add_executable(libpcaplus src/Address.cpp main.cpp)
 
 add_executable(pcap01 pcap01.cxx)
 target_link_libraries(pcap01 pcap)
